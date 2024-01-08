@@ -37,10 +37,9 @@ This subject provides its students with a solid understanding on Advanced Mathem
 
 📁 ***_HOMEWORK 3:_***
 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/LDA_1.png" width="500"/>
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/LDA_2.png" width="500"/>
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/MEAN_STD.png" width="500"/>
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/RANK_LDA.png" width="500"/>
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/LDA_1.png" width="1000"/>
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/LDA_2.png" width="1000"/>
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/MEAN_STD.png" width="500"/><img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/RANK_LDA.png" width="500"/>
 
 📁 ***_HOMEWORK 4:_***
 
