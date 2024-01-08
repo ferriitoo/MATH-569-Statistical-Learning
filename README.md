@@ -47,7 +47,7 @@ This subject provides its students with a solid understanding on Advanced Mathem
 
 <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/LDA_1.png" width="1000"/>
 <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/LDA_2.png" width="1000"/>
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/MEAN_STD.png" width="500"/><img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/RANK_LDA.png" width="500"/>
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/MEAN_STD.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/RANK_LDA.png" width="500"/>
 
 ---
 
@@ -55,14 +55,13 @@ This subject provides its students with a solid understanding on Advanced Mathem
 
 ---
 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/adiposity.png" width="500"/>
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/age.png" width="500"/>
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/alcohol.png" width="500"/>
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/ldl.png" width="500"/>
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/obesity.png" width="500"/>
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/smoothings.png" width="500"/>
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/typea.png" width="500"/>
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/variables_tobacco.png" width="500"/>
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/adiposity.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/age.png" width="500"/>
+
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/alcohol.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/ldl.png" width="500"/>
+
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/obesity.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/smoothings.png" width="500"/>
+
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/typea.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/variables_tobacco.png" width="500"/>
 
 ---
 
