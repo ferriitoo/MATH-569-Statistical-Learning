@@ -12,9 +12,10 @@ This subject provides its students with a solid understanding on Advanced Mathem
 
  <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution_2.png" width="500"/><img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution.png" width="500"/>  
 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution_both.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_dense.png" width="500"/>
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution_both.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/naive_bayes_decisoin_boundary.png" width="500"/> 
 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/red_decision_boundary.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/naive_bayes_decisoin_boundary.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/red_decision_boundary.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_dense.png" width="500"/>
+
 
 
 ---
