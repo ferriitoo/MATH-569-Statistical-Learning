@@ -8,22 +8,21 @@ This subject provides its students with a solid understanding on Advanced Mathem
 
 📁 ***_HOMEWORK 1:_***
 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/2_class_k_15.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/decision_boundary_2.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/2_class_k_15.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/decision_boundary_2.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/decision_boundary_3.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/errors.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/erros_training_testing.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_dense.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution_2.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution_both.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/homogeneously_distributed_p_ball_sampling.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/loss.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/naive_bayes_decisoin_boundary.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/nb_decision_boundary.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/red_decision_boundary.png" width="500"/> 
 
-
-
-decision_boundary_3.png
-errors.png
-erros_training_testing.png
-gaussian_dense.png
-gaussian_distribution.png
-gaussian_distribution_2.png
-gaussian_distribution_both.png
-homogeneously_distributed_p_ball_sampling.png
-loss.png
-naive_bayes_decisoin_boundary.png
-nb_decision_boundary.png
-red_decision_boundary.png
 
 
 📁 ***_HOMEWORK 2:_***
