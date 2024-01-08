@@ -8,7 +8,7 @@ This subject provides its students with a solid understanding on Advanced Mathem
 
 📁 ***_HOMEWORK 1:_***
 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/2_class_k_15.png" height="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/decision_boundary_2.png" height="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/2_class_k_15.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/decision_boundary_2.png" width="500"/> 
 
 
 
