@@ -16,7 +16,6 @@ This subject provides its students with a solid understanding on Advanced Mathem
 
 ---
 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/2_class_k_15.png" width="500"/> 
 <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/decision_boundary_2.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/decision_boundary_3.png" width="500"/> 
 
 ---
@@ -34,6 +33,7 @@ This subject provides its students with a solid understanding on Advanced Mathem
 
 <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/nb_decision_boundary.png" width="500"/> 
 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/2_class_k_15.png" width="500"/> 
 
 
 📁 ***_HOMEWORK 2:_***
