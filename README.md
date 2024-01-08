@@ -24,12 +24,9 @@ This subject provides its students with a solid understanding on Advanced Mathem
 
 ---
 
-
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/homogeneously_distributed_p_ball_sampling.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/homogeneously_distributed_p_ball_sampling.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/loss.png" width="500"/> 
 
 ---
-
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/loss.png" width="500"/> 
 
 <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/nb_decision_boundary.png" width="500"/> 
 
