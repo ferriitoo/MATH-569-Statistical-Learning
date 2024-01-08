@@ -8,6 +8,10 @@ This subject provides its students with a solid understanding on Advanced Mathem
 
 📁 ***_HOMEWORK 1:_***
 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/naive_bayes_decisoin_boundary.png" width="500"/> 
+<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/red_decision_boundary.png" width="500"/> 
+
+
 <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/2_class_k_15.png" width="500"/> 
 <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/decision_boundary_2.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/decision_boundary_3.png" width="500"/> 
 
@@ -20,9 +24,8 @@ This subject provides its students with a solid understanding on Advanced Mathem
 <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/homogeneously_distributed_p_ball_sampling.png" width="500"/> 
 
 <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/loss.png" width="500"/> 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/naive_bayes_decisoin_boundary.png" width="500"/> 
+
 <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/nb_decision_boundary.png" width="500"/> 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/red_decision_boundary.png" width="500"/> 
 
 
 
