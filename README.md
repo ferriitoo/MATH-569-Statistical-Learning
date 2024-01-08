@@ -21,6 +21,22 @@ s
 
 sd
 
+\begin{aligned}
+b_{j}\left(x_{0}\right) & =\sum_{i=1}^{N}\left(x_{i}-x_{0}\right)^{j} l_{i}\left(x_{0}\right) \\
+& =\sum_{i=1}^{N} \sum_{k=0}^{j}\left(\begin{array}{l}
+j \\
+k
+\end{array}\right) x_{i}^{k}\left(-x_{0}\right)^{j-k} l_{i}\left(x_{0}\right) \\
+& =\sum_{k=0}^{j}\left(\begin{array}{l}
+j \\
+k
+\end{array}\right)\left(-x_{0}\right)^{j-k} \sum_{i=1}^{N} x_{i}^{k} l_{i}\left(x_{0}\right) \\
+& =\sum_{k=0}^{j}\left(\begin{array}{l}
+j \\
+k
+\end{array}\right)\left(-x_{0}\right)^{j-k} x_{0}^{k}=\left(x_{0}-x_{0}\right)^{j}=0 .
+\end{aligned}
+
 📁
 ***_HOMEWORK 5:_***
 
