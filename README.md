@@ -9,46 +9,53 @@ This subject provides its students with a solid understanding on Advanced Mathem
 📁 ***_HOMEWORK 1:_***
 
 ---
-<div>
+
+<div style="display: flex; justify-content: space-between;">
+      <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution_2.png" width="500"/>
+      <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution.png" width="500"/>  
+      <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution_both.png" width="500"/> 
+      <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/naive_bayes_decisoin_boundary.png" width="500"/> 
+      <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_dense.png" width="500"/>
+      <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/red_decision_boundary.png" width="500"/> 
+</div>
  
-    <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution_2.png" width="500"/><img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution.png" width="500"/>  
+---
 
-    <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution_both.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/naive_bayes_decisoin_boundary.png" width="500"/> 
-
-    <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_dense.png" width="500"/><img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/red_decision_boundary.png" width="500"/> 
-
+<div style="display: flex; justify-content: space-between;"> 
+      <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/decision_boundary_2.png" width="500"/> 
+      <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/decision_boundary_3.png" width="500"/> 
 </div>
 
 ---
 
-<div>
- 
-    <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/decision_boundary_2.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/decision_boundary_3.png" width="500"/> 
-
+<div style="display: flex; justify-content: space-between;">
+      <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/errors.png" width="500"/> 
+      <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/erros_training_testing.png" width="500"/> 
 </div>
 
 ---
 
-<div>
-
-    <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/errors.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/erros_training_testing.png" width="500"/> 
-
+<div style="display: flex; justify-content: space-between;">
+      <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/homogeneously_distributed_p_ball_sampling.png" width="500"/> 
+      <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/loss.png" width="500"/> 
 </div>
 
 ---
 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/homogeneously_distributed_p_ball_sampling.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/loss.png" width="500"/> 
-
----
-
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/nb_decision_boundary.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/2_class_k_15.png" width="500"/> 
+<div style="display: flex; justify-content: space-between;">
+      <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/nb_decision_boundary.png" width="500"/> 
+      <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/2_class_k_15.png" width="500"/> 
+</div>
 
 
 📁 ***_HOMEWORK 2:_***
 
 ---
 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw2/CANONICAL_VARIABLES.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw2/CLASSIFICATION.png" width="500"/>
+<div style="display: flex; justify-content: space-between;">
+       <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw2/CANONICAL_VARIABLES.png" width="500"/> 
+       <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw2/CLASSIFICATION.png" width="500"/>
+</div>
 
 ---
 
@@ -56,9 +63,12 @@ This subject provides its students with a solid understanding on Advanced Mathem
 
 ---
 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/LDA_1.png" width="1000"/>
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/LDA_2.png" width="1000"/>
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/MEAN_STD.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/RANK_LDA.png" width="500"/>
+<div style="display: flex; justify-content: space-between;">
+        <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/LDA_1.png" width="1000"/>
+        <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/LDA_2.png" width="1000"/>
+        <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/MEAN_STD.png" width="500"/> 
+        <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw3/RANK_LDA.png" width="500"/>
+</div>
 
 ---
 
@@ -66,13 +76,16 @@ This subject provides its students with a solid understanding on Advanced Mathem
 
 ---
 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/adiposity.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/age.png" width="500"/>
-
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/alcohol.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/ldl.png" width="500"/>
-
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/obesity.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/smoothings.png" width="500"/>
-
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/typea.png" width="500"/> <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/variables_tobacco.png" width="500"/>
+<div style="display: flex; justify-content: space-between;">
+        <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/adiposity.png" width="500"/> 
+        <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/age.png" width="500"/>
+        <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/alcohol.png" width="500"/> 
+        <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/ldl.png" width="500"/>
+        <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/obesity.png" width="500"/> 
+        <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/smoothings.png" width="500"/>
+        <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/typea.png" width="500"/> 
+        <img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw4/variables_tobacco.png" width="500"/>
+</div>
 
 ---
 
